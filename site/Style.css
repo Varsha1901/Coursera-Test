@@ -1,0 +1,8 @@
+html{
+    background-color: #08AEEA;
+    background-image: -webkit-linear-gradient(0deg, #08AEEA 0%, #2AF598 100%);
+    background-image: -moz-linear-gradient(0deg, #08AEEA 0%, #2AF598 100%);
+    background-image: -o-linear-gradient(0deg, #08AEEA 0%, #2AF598 100%);
+    background-image: linear-gradient(0deg, #08AEEA 0%, #2AF598 100%);
+    
+}
